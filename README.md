@@ -1,4 +1,4 @@
-# Schematic
+# Electrical Design Schematic
 ## Overview
 ![image](https://github.com/user-attachments/assets/3f289007-3b7d-4cf5-830f-f468525fcb0c)
 ### Drivetrain and Weapon 
